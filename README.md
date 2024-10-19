@@ -1,4 +1,4 @@
-A simple implementation of the classic Snake game optimized for console play without 2D graphics.
+A simple implementation of the classic Snake game optimized for console without 2D graphics.
 
 ## Features
 
