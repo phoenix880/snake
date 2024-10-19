@@ -6,11 +6,11 @@ A simple implementation of the classic Snake game optimized for console play wit
 ╭╮  Console-based gameplay  
 ╰╮  Simple controls  
 ╭╯  
-╰╮ Score tracking  
+╰╮  
 ╭╯  
 ╰  
 
 ## Requirements
 
-C++ compiler  
-Terminal or command prompt (Windows)
+C++ compiler (g++ or MSVC)  
+Terminal or command prompt
